@@ -1,0 +1,11 @@
+test_data
+train_data
+validation_data
+elu.h5
+gelu.h5
+Leaky_relu.h5
+relu.h5
+selu.h5
+softplus.h5
+swish.h5
+data
